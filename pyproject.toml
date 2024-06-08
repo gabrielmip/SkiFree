@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "ski-free"
+version = "0.1.0"
+description = ""
+authors = ["Gabriel Pedrosa <gabrielgmps@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+pygame = "^2.5.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
