@@ -2,9 +2,10 @@
 
 |           |                                                |
 |-----------|------------------------------------------------|
-| Colégio   | Colégio Técnico da UFMG - Setor de Informática |
+| Colégio   | Colégio Técnico da UFMG                        |
+| Setor     | Informática                                    |
 | Aula      | Disciplina de Algoritmos e Estrutura de dados  |
-| Professor | Professor Humberto Honda                       |
+| Professor | Humberto Honda                                 |
 | Aluno     | Gabriel Miranda Pedrosa                        |
 | Ano       | 2010                                           |
 
