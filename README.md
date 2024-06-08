@@ -1,13 +1,13 @@
 # SkiFree com PyGame
 
-|           |                                                |
-|-----------|------------------------------------------------|
-| Colégio   | Colégio Técnico da UFMG                        |
-| Setor     | Informática                                    |
-| Aula      | Disciplina de Algoritmos e Estrutura de dados  |
-| Professor | Humberto Honda                                 |
-| Aluno     | Gabriel Miranda Pedrosa                        |
-| Ano       | 2010                                           |
+|             |                                                |
+|-------------|------------------------------------------------|
+| Instituição | Colégio Técnico da UFMG                        |
+| Setor       | Informática                                    |
+| Disciplina  | Algoritmos e Estrutura de dados                |
+| Professor   | Humberto Honda                                 |
+| Aluno       | Gabriel Miranda Pedrosa                        |
+| Ano         | 2010                                           |
 
 | ![Tela inicial](docs/homescreen.png) |
 |:--:|
